@@ -20,7 +20,7 @@ WebScanner is a Python-based web scraping tool designed to extract and save web 
 You can install the required packages using pip:
 
 ```bash
-pip install requests beautifulsoup4
+pip install -r requirements.txt
 ```
 
 ## Usage
